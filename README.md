@@ -37,7 +37,7 @@ I'm a ninth-semester System and Computer Engineering student at Universidad Jave
 
 I'm open to collaborating on projects that align with my interests, especially in video game development, web development, and cybersecurity.
 
-# 🗣️ My languages
+## 🗣️ My languages
 
 * Español - Native
 * English - B1/B2 
