@@ -39,7 +39,7 @@ I'm open to collaborating on projects that align with my interests, especially i
 
 ## 🗣️ My languages
 
-* Español - Native
+* Spanish - Native
 * English - B1/B2 
 
 ## 📬 How to Reach Me
