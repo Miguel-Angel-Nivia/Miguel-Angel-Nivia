@@ -44,5 +44,5 @@ I'm open to collaborating on projects that align with my interests, especially i
 
 ## 📬 How to Reach Me
 
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelangel-niviaortega/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miguelangelnivia@gmail.com)
